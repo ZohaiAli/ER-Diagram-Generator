@@ -40,8 +40,9 @@ Below is an example of a generated ER Diagram (for demonstration):
 ---
 
 ## ⚙️ Installation & Setup
+   pip install flask graphviz
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/er-diagram-generator.git
+git clone https://github.com/ZohaiAli/er-diagram-generator.git
 cd er-diagram-generator
