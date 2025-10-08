@@ -21,7 +21,7 @@ This project uses **Flask**, **SQLite**, and **Graphviz** to visualize your data
 
 Below is an example of a generated ER Diagram (for demonstration):
 
-![ER Diagram Example](static/example_er_diagram.png)
+![ER Diagram Example](static/BloodBankManagement.db_diagram_1759914790.png)
 
 *(Tip: Add your own real output image in this path, e.g. `static/example_er_diagram.png`)*
 
